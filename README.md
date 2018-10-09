@@ -1,1 +1,1 @@
-# csv-to-sql
+# Importing CSV file to MySQL by using the attached python code.
