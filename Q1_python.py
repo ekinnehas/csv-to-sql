@@ -53,7 +53,7 @@ def get_list(reader):
 
 
 def main():
-    with open('exhibitA-input.csv') as csvfile:
+    with open('exhibitA.csv') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t')
 
         pairs = get_list(reader)
